@@ -97,12 +97,10 @@ GenAI-Chatbot-Development-Course/
 ├── 14-AI-Innovations-Agents-and-AGI/
 │   ├── README.md
 │   ├── notes.md
-│   ├── Assignments/
+│   └── Assignments/
 │       ├── RN_882016_Assignment#01.pdf
 │       ├── agent.py
 │       └── workflows/
-├── Tasks/
-│   └── LinkedIn outreach workflow exports
 ├── 15-Assignment-Idea-Presentations/
 │   ├── README.md
 │   ├── notes.md
@@ -111,8 +109,9 @@ GenAI-Chatbot-Development-Course/
 │   ├── README.md
 │   ├── notes.md
 │   └── task.md
-├── Projects/
-└── Resources/
+├── Tasks/
+│   └── LinkedIn outreach workflow exports
+└── LICENSE
 ```
 
 ## Lecture Folders
